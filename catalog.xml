@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/NotebookWebService1/NotebookService?WSDL" uri="src/conf/xml-resources/web-services/Notebook/wsdl/localhost_8080/NotebookWebService1/NotebookService.wsdl"/>
+    <system systemId="http://localhost:8080/NotebookWebService1/NotebookService?xsd=1" uri="src/conf/xml-resources/web-services/Notebook/wsdl/localhost_8080/NotebookWebService1/NotebookService.xsd_1.xsd"/>
+</catalog>
